@@ -1,8 +1,6 @@
 /*
- * safety.c
- *
- * Created on:
- * Author: root
+Slot 2
+safety.c
  */
 #include <stdio.h>
 int n, m, i, j, k, flag, safe;
